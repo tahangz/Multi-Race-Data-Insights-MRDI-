@@ -20,9 +20,9 @@ The dataset is sourced from Kaggle:
 - Visualization of trends and patterns using Seaborn
   
 ##📚 Insights Gained
-Analysis of participant trends across races
-Performance distributions over different years
-Exploratory visualizations of demographic trends
+- Analysis of participant trends across races
+- Performance distributions over different years
+- Exploratory visualizations of demographic trends
 
 ##🤝 Contributions
 Feel free to fork the repository, submit pull requests, or suggest features through issues.

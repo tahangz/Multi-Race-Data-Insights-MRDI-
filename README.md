@@ -17,15 +17,23 @@ The dataset is sourced from Kaggle:
 ## 🚀 Features  
 - Data Cleaning and Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Visualization of trends and patterns using Seaborn  
-
+- Visualization of trends and patterns using Seaborn
+  
+📚 Insights Gained
+Analysis of participant trends across races
+Performance distributions over different years
+Exploratory visualizations of demographic trends
+🤝 Contributions
+Feel free to fork the repository, submit pull requests, or suggest features through issues.
 ## ⚡ Getting Started  
 
 ### 1. **Install Required Libraries:**  
 Run the following command to install the necessary Python libraries:  
+
 ```bash
 pip install pandas seaborn
 
 
 Run the Project:
 Open the Jupyter Notebook and run the cells step by step
+
